@@ -1,2 +1,6 @@
 # 1day1git
-push something everyday
+push everyday some codes written by Jane
+
+(.md file modify test)
+
+
