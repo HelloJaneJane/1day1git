@@ -12,4 +12,7 @@ push everyday some codes written by Jane
 
 20190601 : 까먹음ㅎ
 
+20190605, 20190606 : 술먹음ㅠ
+
+
 
