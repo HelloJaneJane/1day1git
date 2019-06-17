@@ -14,5 +14,7 @@ push everyday some codes written by Jane
 
 20190605, 20190606 : 술먹음ㅠ
 
+20190615, 20190616 : 해커컵하고 올리려 했는데 너무 귀찮았다
+
 
 
