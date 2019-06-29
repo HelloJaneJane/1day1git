@@ -1,4 +1,4 @@
-# 1day1git
+﻿# 1day1git
 push everyday some codes written by Jane
 
 목적 : 백준 문제를 더 풀자 && 주석 달면서 설명하는 연습을 해보자
@@ -15,6 +15,8 @@ push everyday some codes written by Jane
 20190605, 20190606 : 술먹음ㅠ
 
 20190615, 20190616 : 해커컵하고 올리려 했는데 너무 귀찮았다
+
+20190622-28 : 여행도 가고 이거저거 하느라 그냥 일주일 방학 해버렸다
 
 
 
